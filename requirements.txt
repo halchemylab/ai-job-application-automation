@@ -1,0 +1,7 @@
+selenium
+webdriver-manager
+openai
+python-dotenv
+beautifulsoup4
+nltk
+python-docx
