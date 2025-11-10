@@ -1,13 +1,13 @@
-# Data Job Application Automation
+# AI Job Application Automation
 
 ## 🚀 Project Summary
 
-The **Data Job Application Automation Tool** is a desktop application designed to streamline the job application process. It uses AI to extract key details from a job posting URL, and then uses that information to generate a customized resume and cover letter from your templates.
+The **AI Job Application Automation Tool** is a desktop application designed to streamline the job application process. It uses AI to extract key details from a job posting URL, and then uses that information to generate a customized resume and cover letter from your templates.
 
 ## ✨ Features
 
 -   **Web Scraping:** Extracts job details from a provided URL using Selenium.
--   **AI-Powered Data Extraction:** Uses OpenAI (gpt-4o-mini) to parse the scraped text and extract structured information.
+-   **AI-Powered Information Extraction:** Uses OpenAI (gpt-4o-mini) to parse the scraped text and extract structured information.
 -   **Document Generation:** Populates your `.docx` resume and cover letter templates with the extracted job details.
 -   **File Organization:** Automatically creates a new folder for each application, containing the customized documents.
 -   **Application Tracking:** Appends a record of each scraped job to a central `tracker.csv` file.
